@@ -1,0 +1,9 @@
+* cl-fad
+
+Portable pathname library for Common Lisp.
+
+|---------+----------------------------------------------------------------------|
+| source  | file:https://github.com/edicl/cl-fad/archive/refs/tags/v0.7.6.tar.gz |
+| version | 0.7.6                                                                |
+| systems | cl-fad                                                               |
+|---------+----------------------------------------------------------------------|
